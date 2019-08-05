@@ -29,9 +29,10 @@ header {
 }
 
 header h1 {
-    font-size: 1.25em;
-    color: rgba(50, 50, 50, 0.9);
+    font-size: 2.0em;
+    color: purple;
     margin-top: 35px;
+	font-weight: 100;
 }
 
 .search-input {
@@ -106,6 +107,7 @@ header h1 {
 
 .card-name {
     margin: 20px auto 0;
+	color: purple;
 }
 
 .card-text {
@@ -152,7 +154,7 @@ header h1 {
     right: 15px;
     cursor: pointer;
     color: rgba(255, 255, 255, 0.9);
-    background: rgba(0, 0, 0, 0.8);
+    background: purple;
     outline: none;
     border-radius: 0.25em;
     border: 1px solid rgba(50, 50, 50, 0.3);
@@ -166,6 +168,7 @@ header h1 {
 
 .modal-name {
     margin-bottom: 5px;
+	color: purple;
 }
 
 .modal-text {
@@ -201,7 +204,7 @@ header h1 {
     text-transform: uppercase;
     color: rgba(255, 255, 255, 0.9);
     padding: 0.75em 1.5em;
-    background: rgba(0, 0, 0, 0.8);
+    background: purple;
     border-radius: 0.35em;
     transition: .4s ease-out;
     outline: none;
